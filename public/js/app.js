@@ -4,7 +4,7 @@ console.log('Client side javascript file is loaded!')
 //     response.json().then((data)=>{
 //         console.log(data)
 //     })
-// })
+// }) //
 
 const weatherForm = document.querySelector('form')
 const search      = document.querySelector('input') 
